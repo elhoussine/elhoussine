@@ -12,7 +12,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; JavaScript | Ruby | Java
-- 🌐 &nbsp; React | Redux | HTML | CSS | Bootstrap 
+- 🌐 &nbsp; Node JS | React | Redux | HTML | CSS 
 - 🛢 &nbsp; PostgreSQL | MongoDB | MySQL | Oracle
 - 🔧 &nbsp; Visual Studio code | Eclipse | Git | SVN
 - 🖥 &nbsp; Illustrator | Photoshop
