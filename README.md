@@ -1,21 +1,21 @@
-<h2> Hey there!  I'm Elhoussine. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<h2> Hey there! &nbsp; I'm Elhoussine. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 💼 &nbsp; Full Stack Software Engineer.
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Data Structures and Algorithms.
-- 🌱 &nbsp; Enthusiast in Machine Learning and Artificial Intelligence .
+- 💎 &nbsp; Exploring new technologies and developing web applications.
+- 🎓 &nbsp; Currently learning Python and improving in Data Structures and Algorithms.
+- 💡 &nbsp; Enthusiast in Blockchain, Machine Learning and Artificial Intelligence .
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; JavaScript | Ruby | Java
-- 🌐 &nbsp; Node JS | React | Redux | HTML | CSS 
-- 🛢 &nbsp; PostgreSQL | MongoDB | MySQL | Oracle
-- 🔧 &nbsp; Visual Studio code | Eclipse | Git | SVN
-- 🖥 &nbsp; Illustrator | Photoshop
+- 💻 &nbsp; JavaScript &nbsp; &nbsp;&nbsp;| &nbsp; Ruby &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; Java
+- 🌐 &nbsp; Node JS &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; Rails &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; Express &nbsp;| &nbsp; React &nbsp;| &nbsp; Redux &nbsp;| &nbsp; HTML &nbsp;| &nbsp; CSS 
+- 🛢 &nbsp; PostgreSQL &nbsp;| &nbsp; MongoDB &nbsp;| &nbsp; MySQL &nbsp; | &nbsp; Oracle
+- 🔧 &nbsp; VS code &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; Eclipse &nbsp; &nbsp; &nbsp; | &nbsp; Git &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; SVN
+- 🖥 &nbsp; Photoshop &nbsp; &nbsp;
 
 <br>
 
