@@ -4,7 +4,6 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 💼 &nbsp; Full Stack Software Engineer.
-- 🔭 &nbsp; I’m currently active looking for a full time job
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Data Structures and Algorithms.
 - 🌱 &nbsp; Enthusiast in Machine Learning and Artificial Intelligence .
