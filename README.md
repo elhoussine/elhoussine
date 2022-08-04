@@ -19,6 +19,13 @@
 
 <br>
 
+<h3>🏷 Checkout My Projects</h3>
+
+  - &nbsp; <a href="https://stockxy.herokuapp.com/#/">StockY</a>, this full-stack, single-page app is a functional clone of the popular e-commerce marketplace <a href="https://www.stockx.com/" target="_blank" rel="noopener noreferrer">StockX</a>, that allows users to trade authentic sneakers, clothes, accessories, NFTs, and more.
+  - &nbsp; [Kuiz](https://elhoussine.github.io/Kuiz/) is a single-player trivia game, asks the player to select a trivia category and a number of questions to be shown. The player has to pick a correct answer, from the choices displayed, for each question in a limited time.
+  - &nbsp; [DevFocus](https://devfocus.herokuapp.com/#/) is a full-stack app built for developers to organize their job search, track job applications, store contacts, and practice for interviews.
+<br>
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=elhoussine&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="elhoussine's Github Stats">
 
 </br>
