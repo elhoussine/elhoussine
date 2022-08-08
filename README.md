@@ -5,7 +5,7 @@
 
 - 💼 &nbsp; Full Stack Software Engineer.
 - 💎 &nbsp; Exploring new technologies and developing web applications.
-- 🎓 &nbsp; Currently learning Python and improving in Data Structures and Algorithms.
+- 🎓 &nbsp; Currently learning Python and TypeScript.
 - 💡 &nbsp; Enthusiastic about Blockchain, Machine Learning and Artificial Intelligence.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
