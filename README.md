@@ -3,16 +3,13 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 💼 &nbsp; Full Stack Software Engineer.
-- 💎 &nbsp; Exploring new technologies and developing web applications.
-- 💡 &nbsp; Enthusiastic about Blockchain, Machine Learning and Artificial Intelligence.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+I am a driven and results-oriented full-stack software engineer, known for my self-motivation and adaptability in fast-paced environments. With strong analytical and problem-solving skills, I excel at crafting complete, scalable, and responsive products. Expertise in JavaScript ES6/TypeScript, Java/J2EE, and Ruby, along with frameworks like React.js, Node.js, Next.js, and Ruby on Rails. Proficient in databases such as Oracle, SQL Server, PostgreSQL, and MongoDB. Skilled in Git, SVN, AWS, Jira, and Figma.
 
 ![](https://i.imgur.com/waxVImv.png)
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; JavaScript &nbsp; &nbsp;&nbsp;| &nbsp; Ruby &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; Java
+- 💻 &nbsp; JavaScript &nbsp; &nbsp;&nbsp;| &nbsp;TypeScript | &nbsp; Java &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; Ruby
 - 🌐 &nbsp; Node JS &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; Rails &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; Express &nbsp;| &nbsp; React &nbsp;| &nbsp; Redux &nbsp;| &nbsp; HTML &nbsp;| &nbsp; CSS 
 - 🛢 &nbsp; PostgreSQL &nbsp;| &nbsp; MongoDB &nbsp;| &nbsp; MySQL &nbsp; | &nbsp; Oracle
 - 🔧 &nbsp; VS code &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; Eclipse &nbsp; &nbsp; &nbsp; | &nbsp; Git &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; SVN
@@ -22,9 +19,9 @@
 
 <h3>🏷 Projects</h3>
 
-  - &nbsp; [StockY](https://stockxy.herokuapp.com/#/), this full-stack, single-page app is a functional clone of the popular e-commerce marketplace [StockX](https://www.stockx.com/), that allows users to trade authentic sneakers, clothes, accessories, NFTs, and more.
+  - &nbsp; [StockY](https://stockxy.herokuapp.com/#/), this full-stack, single-page e-commerce marketplace app inspired by StockX. Enables trading of authentic sneakers, clothes, accessories, NFTs, and more.
   
-  - &nbsp; [Kuiz](https://elhoussine.github.io/Kuiz/) is a single-player trivia game, asks the player to select a trivia category and a number of questions to be shown. The player has to pick a correct answer, from the choices displayed, for each question in a limited time.
+  - &nbsp; [Kuiz](https://elhoussine.github.io/Kuiz/) is a single-player trivia game that challenges players to answer questions within a limited time frame.
   
   - &nbsp; [DevFocus](https://devfocus.herokuapp.com/#/) is a full-stack app built for developers to organize their job search, track job applications, store contacts, and practice for interviews.
 
