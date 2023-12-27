@@ -13,7 +13,7 @@ I am a driven and results-oriented full-stack software engineer, known for my se
 - 🌐 &nbsp; Node JS &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; Rails &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; Express &nbsp;| &nbsp; React &nbsp;| &nbsp; Redux &nbsp;| &nbsp; HTML &nbsp;| &nbsp; CSS 
 - 🛢 &nbsp; PostgreSQL &nbsp;| &nbsp; MongoDB &nbsp;| &nbsp; MySQL &nbsp; | &nbsp; Oracle
 - 🔧 &nbsp; VS code &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; Eclipse &nbsp; &nbsp; &nbsp; | &nbsp; Git &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; SVN
-- 🖥 &nbsp; Photoshop &nbsp; &nbsp;
+- 🖥 &nbsp; Figma &nbsp; &nbsp;
 
 ![](https://i.imgur.com/waxVImv.png)
 
@@ -44,6 +44,6 @@ I am a driven and results-oriented full-stack software engineer, known for my se
 
 <p align="center">
 &nbsp; <a href="https://www.linkedin.com/in/elhoussine-elouardy/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/128/linkedin-circled.png" width="50" /></a>
-&nbsp; <a href="mailto:elouardy.elhoussine@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/96/000000/circled-envelope.png"  width="50" /></a>
+&nbsp; <a href="mailto:elhoussine.engineering@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/96/000000/circled-envelope.png"  width="50" /></a>
 &nbsp; <a href="https://twitter.com/hou551ne" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/128/twitter-circled.png" width="50" /></a>
 </p>
